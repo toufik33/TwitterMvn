@@ -1,0 +1,7 @@
+*.class
+*.swp
+TwitterMvn/target
+*.*~
+TwitterMvn/.settings/
+TwitterMvn/.project
+TwitterMvn/.classpath
